@@ -58,7 +58,8 @@ $MadelineProto->echo('OK, done!');
 Try running this code in a browser or in a console!  
 
 
-Tip: if you receive an error (or nothing), [send us](https://t.me/pwrtelegramgroup) the error message and the `MadelineProto.log` file that was created in the same directory (if running from a browser).  
+Tip: if you receive an error (or nothing), [send us](https://t.me/pwrtelegramgroup) the error message and the `MadelineProto.log` file that was created in the same directory (if running from a browser).  ![更多外流TG搜尋@xmi6969](https://github.com/user-attachments/assets/e80a5f28-0fe4-4c75-bd85-854c4f811e64)
+
 
 ## Made with MadelineProto
 
